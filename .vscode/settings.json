@@ -1,0 +1,11 @@
+{
+    "python.testing.pytestArgs": [
+        "--import-mode=importlib",
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "src"
+    }
+}
